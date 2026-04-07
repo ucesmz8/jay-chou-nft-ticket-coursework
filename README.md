@@ -17,3 +17,5 @@ A sample NFT ticket was successfully minted on the Sepolia test network to demon
 
 ## Files
 - JayChouConcertTicket.sol — Solidity smart contract
+
+<img width="452" height="223" alt="image" src="https://github.com/user-attachments/assets/a6a809ad-1c7a-4a49-85c3-bcefbee14620" />
